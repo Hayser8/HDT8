@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"IPriorityQueue"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"PriorityQueueJavaFrameworks"},{"p":"<Unnamed>","l":"Proceso"},{"p":"<Unnamed>","l":"ProcesoFileReader"},{"p":"<Unnamed>","l":"VectorHeap"},{"p":"<Unnamed>","l":"VectorHeapTest"}];updateSearchResults();
